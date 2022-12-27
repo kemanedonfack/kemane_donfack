@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kemane Donfack</h1>
 <h3 align="center">DevOps engineer / Mobile Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemanedonfack&label=Profile%20views&color=0e75b6&style=flat" alt="kemanedonfack" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
 
 - 🔭 I’m currently working on **DevOps projects, using tools like Docker, Kubernetes Ansible, Jenkins. And Mobile application using Flutter**
