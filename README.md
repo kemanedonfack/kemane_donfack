@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **exciting software projects using DevOps principles.**
 
-- 🤝 I’m looking for help with **a mentor**
-
 - 📝 I regularly write articles on [linkedin about my acheivement](linkedin about my acheivement)
 
 - 💬 Ask me about **DevOps / Flutter**
