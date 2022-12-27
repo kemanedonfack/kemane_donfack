@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kemane Donfack</h1>
 <h3 align="center">DevOps engineer / Mobile Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif">
+
 
 - 🔭 I’m currently working on **DevOp projects, using tools like Docker, Kubernetes Ansible, Jenkins. And Mobile application using Flutter**
 
