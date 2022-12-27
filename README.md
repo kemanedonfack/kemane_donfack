@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **DevOp projects, using tools like Docker, Kubernetes Ansible, Jenkins. And Mobile application using Flutter**
+- 🔭 I’m currently working on **DevOps projects, using tools like Docker, Kubernetes Ansible, Jenkins. And Mobile application using Flutter**
 
 - 🌱 I’m currently learning **DevSecOps and DevOps on AWS**
 
