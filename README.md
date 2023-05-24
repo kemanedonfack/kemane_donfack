@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **exciting software projects using DevOps principles.**
 
-- 📝 I regularly write articles on [linkedin about my acheivement](linkedin about my acheivement)
+- 📝 I regularly write articles on [cloud and devops](https://blog.numericaideas.com/author/kemanedonfack)
 
-- 💬 Ask me about **DevOps / Flutter**
+- 💬 Ask me about **DevOps & Cloud DevSecOps**
 
 - 📫 How to reach me **kemanedonfack5@gmail.com**
 
