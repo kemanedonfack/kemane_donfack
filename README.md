@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
 
-- 🔭 I’m currently working on **DevOps projects, using tools like Docker, Kubernetes Ansible, Jenkins. And Mobile application using Flutter**
+- 🔭 I’m currently working on **DevOps projects, using tools like Docker, Gitlab CI, Kubernetes, Ansible, Jenkins. And Mobile application using Flutter**
 
-- 🌱 I’m currently learning **DevSecOps and DevOps on AWS**
+- 🌱 I’m currently learning **DevSecOps and DevOps on AWS and on premise**
 
 - 👯 I’m looking to collaborate on **exciting software projects using DevOps principles.**
 
