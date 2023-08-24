@@ -17,6 +17,19 @@
 
 - 📫 How to reach me **kemanedonfack5@gmail.com**
 
+<table><tr><td valign="top" width="50%">
+
+## <a href="[https://blog.numericaideas.com/author/kemanedonfack](https://blog.numericaideas.com/author/kemanedonfack)"><img src="https://avatars.githubusercontent.com/u/84835921?s=48&v=4" title="NumericaIdeas" alt="NumericaIdeas" width="25"/></a>   Latest Articles on n-i.cm     
+<!-- TECH-POSTS-LIST:START -->
+- [Build a Serverless App with AWS Lambda, S3, DynamoDB, and Python](https://blog.numericaideas.com/aws-serverless-web-application)
+- [Auto Scaling Group on AWS with Terraform](https://blog.numericaideas.com/auto-scaling-group-on-aws-with-terraform)
+- [Spring Boot Microservices Deployment to Kubernetes with Helm via GitLab CI](https://blog.numericaideas.com/springboot-microservices-deployment-kubernetes-helm-gitlabci)
+- [Deploy WordPress on a 2-Tier AWS Architecture with Terraform](https://blog.numericaideas.com/deploy-wordpress-2-tier-aws-architecture-with-terraform)
+- [Deploying a Spring Boot App with Docker in a Kubernetes Cluster](https://blog.numericaideas.com/deploying-springboot-app-with-docker-and-kubernetes)
+<!-- TECH-POSTS-LIST:END -->
+
+</td></tr></table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kemane-donfack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemanedonfack" height="30" width="40" /></a>
